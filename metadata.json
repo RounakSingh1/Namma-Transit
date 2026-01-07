@@ -1,0 +1,7 @@
+{
+  "name": " Namma Transit",
+  "description": "A modern public transport solution for Bengaluru commuters featuring real-time bus tracking, QR ticketing, and smart station displays with crowd-level monitoring.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
